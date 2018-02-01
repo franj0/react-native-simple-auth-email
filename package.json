@@ -1,5 +1,5 @@
 {
-  "name": "react-native-simple-auth",
+  "name": "react-native-simple-auth-email",
   "version": "2.2.0",
   "description": "Native social authentication for React Native",
   "main": "index.js",
